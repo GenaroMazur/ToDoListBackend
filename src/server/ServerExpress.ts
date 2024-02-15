@@ -21,7 +21,7 @@ export class ServerExpress {
             helmet(helmetOptions)
         );
 
-        this.app.use("/api  -doc", swaggerUi.serve, swaggerUi.setup(swagger));
+        this.app.use("/api-doc", swaggerUi.serve, swaggerUi.setup(swagger));
     }
 
 
