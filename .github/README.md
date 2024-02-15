@@ -17,6 +17,3 @@ Proyecto de practica para el FRONTEND.
 
 6) `npm start` o `yarn start`
 
-## extras
-
-La aplicacion esta autodocumentada con swagger, se puede visualiar en la ruta `http://localhost:{puerto}/api-doc`
