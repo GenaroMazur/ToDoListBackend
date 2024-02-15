@@ -1,0 +1,1 @@
+export const envsRequired = ["TCPPORT"] as const;
